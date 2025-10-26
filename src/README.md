@@ -2,15 +2,15 @@
 
 speech emotion weights ->
 './audio_emotion/models'
-https://drive.google.com/file/d/1Rywn4bnXV3_1vMoSVWV_k9pvRR3nd_rG/view?usp=sharing
+https://
 
 multi-modal model weights ->
 './multimodal'
-https://drive.google.com/file/d/1gJSD0iuZRRZanUucQBqscg8uOs4M2v32/view?usp=sharing
+https://
 
 multi-modal feature dataset ->
 './multimodal/data'
-https://drive.google.com/file/d/1PmN22HZbFRYAHDOSc7jMuSR5z78uJPNG/view?usp=sharing
+https://
 
 
 './data_cleaning_code' :
